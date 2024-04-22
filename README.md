@@ -20,7 +20,7 @@ A demo of projects
    
 2. Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Pallavi-Dhondge2/Excel-Sales-Analytic/blob/main/P%20%26%20L%20reports%20for%20markets.pdf
   
-3. Create Profit and Loss (P&L) reports by _[Fiscal months]. (https://github.com/Pallavi-Dhondge2/Excel-Sales-Analytic/blob/main/P%20%26%20L%20By%20Month.pdf)
+3. Create Profit and Loss (P&L) reports by _[Fiscal months]. (https://github.com/Pallavi-Dhondge2/Excel-Sales-Analytics/blob/main/P%20%26%20L%20reports%20by%20Month.pdf)
    
 •	**Purpose of sales analytics:- **Sales analytics help in allocating budgets effectively by providing insights into past sales performance and expected future revenue. Sales analytics help in identifying and mitigating risks associated with sales activities, such as sales volatility, customer credit risk, and market uncertainty.
 
