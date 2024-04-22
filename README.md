@@ -3,7 +3,7 @@ A demo of projects
 ## Sales Report :
 
 •	Project objective:
-1. Create a _[customer performance report](https://github.com/Pallavi-Dhondge2/Excel-Sales-Analytic/blob/main/Customer%20Performance%20Report.pdf
+1. Create a _[customer performance report]([https://github.com/Pallavi-Dhondge2/Excel-Sales-Analytic/blob/main/Customer%20Performance%20Report.pdf](https://github.com/Pallavi-Dhondge2/Excel-Sales-Analytics/blob/main/Customers%20%20Performance%20Report%20.pdf)
   
 2. Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Pallavi-Dhondge2/Excel-Sales-Analytic/blob/main/Market%20Performances%20vs%20Target%20excel%20file%20-%20.pdf
    
