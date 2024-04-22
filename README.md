@@ -9,7 +9,7 @@ A demo of projects
    
 •	**Purpose of sales analytics:- ** Sales analysis can help you make better decisions about your product, pricing, inventory customer needs other aspects of your                                           business.It helps Performance Evaluation, Identifying Trends, Optimizing Sales Strategies, Customer Insights,& so on.
 
-•	**Importance of analyzing sales data:- ** You can track your most profitable products as well as the ones that aren't moving, identify most profitable customers , &                                              improve your sales process.
+•	**Importance of analyzing sales data:- ** You can track your most profitable products as well as the ones that aren't moving, identify most profitable customers , &                                               improve your sales process.
 
 •	**Role of reports:- ** Sales reports enriched with analytics offer valuable insights to support decision-making processes. By presenting data on sales trends,                                 customer behavior, and product performance, these reports enable stakeholders to make informed decisions related to resource allocation, sales                          strategies, product development, and market positioning.
 
