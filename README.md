@@ -30,16 +30,25 @@ A demo of projects
 
 ## Technical & Soft Skills:
 •	[1] Proficiency in ETL methodology (Extract, Transform, Load).
+
 •	[2] Skills to generate a date table using Power Query.
+
 •	[3] Ability to derive fiscal months and quarters.
+
 •	[4] Establishing data model relationships with Power Pivot.
+
 •	[5] Proficiency in incorporating supplementary data into an existing data model.
+
 •	[6] Utilizing DAX to create calculated columns.
 
+
 ## Soft Skills:
-•	[1] Refined understanding of Sales & Finance Reports
+•	[1] Refined understanding of Sales & Finance Reports.
+
 •	[2] Designing user-centric reports with empathy in mind.
+
 •	[3] Optimization of report generation through meticulous fine-tuning.
+
 •	[4] Developing a systematic approach to devising a report building plan.
 
 
